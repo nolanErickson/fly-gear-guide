@@ -1,3 +1,3 @@
 # Fly Gear Guide
 A Fly fishing recommendation system utilizing AI.
-Build with Blazor + C#.
+Built with Blazor + C#.

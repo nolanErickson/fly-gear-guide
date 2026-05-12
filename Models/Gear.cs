@@ -1,3 +1,5 @@
+Namespace FishingGearApp.Models
+
 public abstract class Gear
 {
   public string Name { get; set; }
